@@ -37,7 +37,7 @@ Tag = ital;
 );
 }
 );
-date = "2018-08-04 09:13:01 +0000";
+date = "2018-08-04 09:43:18 +0000";
 designer = "Katatrad Aksorn Co.,Ltd.";
 designerURL = www.katatrad.com;
 familyName = Niramit;
@@ -122135,7 +122135,7 @@ unicode = 0E2B;
 },
 {
 glyphname = "loChula-thai";
-lastChange = "2018-08-04 09:12:50 +0000";
+lastChange = "2018-08-04 09:43:10 +0000";
 layers = (
 {
 anchors = (
@@ -122689,11 +122689,6 @@ nodes = (
 }
 );
 };
-guideLines = (
-{
-position = "{741, 519}";
-}
-);
 layerId = "C1FA819C-E964-464A-9760-8985A4BBBA06";
 paths = (
 {
