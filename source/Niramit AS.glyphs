@@ -37,7 +37,7 @@ Tag = ital;
 );
 }
 );
-date = "2018-07-26 07:39:14 +0000";
+date = "2018-08-04 09:13:01 +0000";
 designer = "Katatrad Aksorn Co.,Ltd.";
 designerURL = www.katatrad.com;
 familyName = Niramit;
@@ -122135,7 +122135,7 @@ unicode = 0E2B;
 },
 {
 glyphname = "loChula-thai";
-lastChange = "2018-07-09 13:29:34 +0000";
+lastChange = "2018-08-04 09:12:50 +0000";
 layers = (
 {
 anchors = (
@@ -122145,7 +122145,7 @@ position = "{629, 0}";
 },
 {
 name = top;
-position = "{496, 593}";
+position = "{620, 804}";
 }
 );
 guideLines = (
@@ -122261,7 +122261,7 @@ position = "{673, 0}";
 },
 {
 name = top;
-position = "{510, 593}";
+position = "{627, 804}";
 }
 );
 background = {
@@ -122476,7 +122476,7 @@ position = "{645, 0}";
 },
 {
 name = top;
-position = "{500, 593}";
+position = "{645, 804}";
 }
 );
 layerId = "62D79BA8-865E-4B23-88DF-F495C1A196AD";
@@ -122587,7 +122587,7 @@ position = "{632, 0}";
 },
 {
 name = top;
-position = "{573, 593}";
+position = "{729, 804}";
 }
 );
 background = {
@@ -122802,7 +122802,7 @@ position = "{607, 0}";
 },
 {
 name = top;
-position = "{566, 593}";
+position = "{734, 804}";
 }
 );
 layerId = "5A1050C4-4F08-4A6D-BA78-94A136104BF4";
@@ -122913,7 +122913,7 @@ position = "{587, 0}";
 },
 {
 name = top;
-position = "{559, 593}";
+position = "{718, 804}";
 }
 );
 guideLines = (
