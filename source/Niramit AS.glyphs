@@ -1,5 +1,5 @@
 {
-.appVersion = "1141";
+.appVersion = "1161";
 copyright = "Copyright (c) 2018, Cadson Demak (info@cadsondemak.com)";
 customParameters = (
 {
@@ -105,15 +105,15 @@ custom = Extra;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -126,6 +126,18 @@ value = -534;
 {
 name = "Master Icon Glyph Name";
 value = n;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
 }
 );
 descender = -250;
@@ -151,15 +163,15 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -172,6 +184,18 @@ value = -534;
 {
 name = "Master Icon Glyph Name";
 value = n;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
 }
 );
 descender = -250;
@@ -194,15 +218,15 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -215,6 +239,18 @@ value = -534;
 {
 name = "Master Icon Glyph Name";
 value = n;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
 }
 );
 descender = -250;
@@ -243,15 +279,15 @@ custom = "Extra Italic";
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -264,6 +300,18 @@ value = -534;
 {
 name = "Master Icon Glyph Name";
 value = n;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
 }
 );
 descender = -250;
@@ -291,15 +339,15 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -312,6 +360,18 @@ value = -534;
 {
 name = "Master Icon Glyph Name";
 value = n;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
 }
 );
 descender = -250;
@@ -336,15 +396,15 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -357,6 +417,18 @@ value = -534;
 {
 name = "Master Icon Glyph Name";
 value = n;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
 }
 );
 descender = -250;
@@ -2500,7 +2572,7 @@ unicode = 0100;
 },
 {
 glyphname = Aogonek;
-lastChange = "2018-07-26 17:37:38 +0000";
+lastChange = "2018-08-23 12:46:06 +0000";
 layers = (
 {
 components = (
@@ -2535,7 +2607,7 @@ name = A;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 556, 0}";
+transform = "{1, 0, 0, 1, 571, -6}";
 }
 );
 layerId = "62D79BA8-865E-4B23-88DF-F495C1A196AD";
@@ -2574,7 +2646,7 @@ name = A;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 542, 0}";
+transform = "{1, 0, 0, 1, 547, -6}";
 }
 );
 layerId = "DD5BE8D6-EC3D-4275-AA48-09C9275F1F3A";
@@ -16691,7 +16763,7 @@ unicode = 012A;
 },
 {
 glyphname = Iogonek;
-lastChange = "2018-07-26 17:42:46 +0000";
+lastChange = "2018-08-23 12:46:06 +0000";
 layers = (
 {
 components = (
@@ -16726,7 +16798,7 @@ name = I;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 126, 0}";
+transform = "{1, 0, 0, 1, 131, 0}";
 }
 );
 layerId = "62D79BA8-865E-4B23-88DF-F495C1A196AD";
@@ -16752,7 +16824,7 @@ name = I;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 127, 0}";
+transform = "{1, 0, 0, 1, 132, 0}";
 }
 );
 layerId = "5A1050C4-4F08-4A6D-BA78-94A136104BF4";
@@ -16765,7 +16837,7 @@ name = I;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 134, 0}";
+transform = "{1, 0, 0, 1, 136, 0}";
 }
 );
 layerId = "DD5BE8D6-EC3D-4275-AA48-09C9275F1F3A";
@@ -58766,7 +58838,7 @@ unicode = 0237;
 },
 {
 glyphname = jcircumflex;
-lastChange = "2018-07-26 18:41:24 +0000";
+lastChange = "2018-08-23 12:46:06 +0000";
 layers = (
 {
 components = (
@@ -58801,7 +58873,7 @@ name = jdotless;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 296, 0}";
+transform = "{1, 0, 0, 1, 296, 15}";
 }
 );
 layerId = "62D79BA8-865E-4B23-88DF-F495C1A196AD";
@@ -58840,11 +58912,11 @@ name = jdotless;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, 288, 0}";
+transform = "{1, 0, 0, 1, 294, 15}";
 }
 );
 layerId = "DD5BE8D6-EC3D-4275-AA48-09C9275F1F3A";
-width = 393;
+width = 411;
 }
 );
 leftKerningGroup = j;
@@ -73331,7 +73403,7 @@ unicode = 016B;
 },
 {
 glyphname = uogonek;
-lastChange = "2018-07-26 18:41:24 +0000";
+lastChange = "2018-08-23 12:46:06 +0000";
 layers = (
 {
 components = (
@@ -73366,7 +73438,7 @@ name = u;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 429, 0}";
+transform = "{1, 0, 0, 1, 436, 13}";
 }
 );
 layerId = "62D79BA8-865E-4B23-88DF-F495C1A196AD";
@@ -73392,7 +73464,7 @@ name = u;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 430, 0}";
+transform = "{1, 0, 0, 1, 440, 13}";
 }
 );
 layerId = "5A1050C4-4F08-4A6D-BA78-94A136104BF4";
@@ -73405,7 +73477,7 @@ name = u;
 },
 {
 name = ogonekcomb;
-transform = "{1, 0, 0, 1, 430, 0}";
+transform = "{1, 0, 0, 1, 438, 3}";
 }
 );
 layerId = "DD5BE8D6-EC3D-4275-AA48-09C9275F1F3A";
