@@ -1,6 +1,10 @@
 {
 .appVersion = "1161";
+<<<<<<< HEAD
 copyright = "Copyright 2018 the Niramit Project Authors (https://github.com/cadsondemak/Niramit)";
+=======
+copyright = "Copyright (c) 2018, Cadson Demak (info@cadsondemak.com)";
+>>>>>>> pr/6
 customParameters = (
 {
 name = vendorID;
@@ -211,15 +215,15 @@ custom = Extra;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -234,6 +238,7 @@ name = "Master Icon Glyph Name";
 value = n;
 },
 {
+<<<<<<< HEAD
 name = hheaAscender;
 value = 750;
 },
@@ -244,6 +249,18 @@ value = -250;
 {
 name = hheaLineGap;
 value = 400;
+=======
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
+>>>>>>> pr/6
 }
 );
 descender = -250;
@@ -269,15 +286,15 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -292,6 +309,7 @@ name = "Master Icon Glyph Name";
 value = n;
 },
 {
+<<<<<<< HEAD
 name = hheaAscender;
 value = 750;
 },
@@ -302,6 +320,18 @@ value = -250;
 {
 name = hheaLineGap;
 value = 400;
+=======
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
+>>>>>>> pr/6
 }
 );
 descender = -250;
@@ -324,15 +354,15 @@ capHeight = 700;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -347,6 +377,7 @@ name = "Master Icon Glyph Name";
 value = n;
 },
 {
+<<<<<<< HEAD
 name = hheaAscender;
 value = 750;
 },
@@ -357,6 +388,18 @@ value = -250;
 {
 name = hheaLineGap;
 value = 400;
+=======
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
+>>>>>>> pr/6
 }
 );
 descender = -250;
@@ -385,15 +428,15 @@ custom = "Extra Italic";
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -408,6 +451,7 @@ name = "Master Icon Glyph Name";
 value = n;
 },
 {
+<<<<<<< HEAD
 name = hheaAscender;
 value = 750;
 },
@@ -418,6 +462,18 @@ value = -250;
 {
 name = hheaLineGap;
 value = 400;
+=======
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
+>>>>>>> pr/6
 }
 );
 descender = -250;
@@ -445,15 +501,15 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -468,6 +524,7 @@ name = "Master Icon Glyph Name";
 value = n;
 },
 {
+<<<<<<< HEAD
 name = hheaAscender;
 value = 750;
 },
@@ -478,6 +535,18 @@ value = -250;
 {
 name = hheaLineGap;
 value = 400;
+=======
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
+>>>>>>> pr/6
 }
 );
 descender = -250;
@@ -502,15 +571,15 @@ custom = Italic;
 customParameters = (
 {
 name = typoAscender;
-value = 750;
+value = 1105;
 },
 {
 name = typoDescender;
-value = -250;
+value = -195;
 },
 {
 name = typoLineGap;
-value = 400;
+value = 0;
 },
 {
 name = winAscent;
@@ -525,6 +594,7 @@ name = "Master Icon Glyph Name";
 value = n;
 },
 {
+<<<<<<< HEAD
 name = hheaAscender;
 value = 750;
 },
@@ -535,6 +605,18 @@ value = -250;
 {
 name = hheaLineGap;
 value = 400;
+=======
+name = hheaLineGap;
+value = 0;
+},
+{
+name = hheaAscender;
+value = 1105;
+},
+{
+name = hheaDescender;
+value = -195;
+>>>>>>> pr/6
 }
 );
 descender = -250;
@@ -2658,6 +2740,10 @@ unicode = 0100;
 },
 {
 glyphname = Aogonek;
+<<<<<<< HEAD
+=======
+lastChange = "2018-08-23 12:46:06 +0000";
+>>>>>>> pr/6
 layers = (
 {
 components = (
@@ -16787,6 +16873,10 @@ unicode = 012A;
 },
 {
 glyphname = Iogonek;
+<<<<<<< HEAD
+=======
+lastChange = "2018-08-23 12:46:06 +0000";
+>>>>>>> pr/6
 layers = (
 {
 components = (
@@ -58650,6 +58740,10 @@ unicode = 0237;
 },
 {
 glyphname = jcircumflex;
+<<<<<<< HEAD
+=======
+lastChange = "2018-08-23 12:46:06 +0000";
+>>>>>>> pr/6
 layers = (
 {
 components = (
@@ -73116,6 +73210,10 @@ unicode = 016B;
 },
 {
 glyphname = uogonek;
+<<<<<<< HEAD
+=======
+lastChange = "2018-08-23 12:46:06 +0000";
+>>>>>>> pr/6
 layers = (
 {
 components = (
